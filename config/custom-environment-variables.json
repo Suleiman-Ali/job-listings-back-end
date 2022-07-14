@@ -1,0 +1,4 @@
+{
+  "jwtPrivatekey": "listings_jwtPrivatekey",
+  "db": "listings_db"
+}
